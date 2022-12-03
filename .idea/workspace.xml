@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af60337d-281a-43b7-ac45-047a046f2d09" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H3yMZ5OeDAUzAw9xAnbUlYGOjA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dmill666/IdeaProjects/BD&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="j" />
+      <command value="which is not in the module graph" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../beast2/build/dist/BD.addon.jar" />
+      <option name="VM_PARAMETERS" value="--add-modules=jdk.incubator.vector" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="zulu-17" />
+      <module name="BD" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af60337d-281a-43b7-ac45-047a046f2d09" name="Changes" comment="" />
+      <created>1667528014660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667528014660</updated>
+      <workItem from="1667528016822" duration="18827000" />
+      <workItem from="1667950661538" duration="11365000" />
+      <workItem from="1668555192411" duration="5526000" />
+      <workItem from="1668637883134" duration="5924000" />
+      <workItem from="1668659834036" duration="16319000" />
+      <workItem from="1669231626525" duration="5870000" />
+      <workItem from="1669237583066" duration="4089000" />
+      <workItem from="1669241755545" duration="9483000" />
+      <workItem from="1669262008623" duration="2248000" />
+      <workItem from="1669264733554" duration="2175000" />
+      <workItem from="1669266915008" duration="2334000" />
+      <workItem from="1669272331040" duration="252000" />
+      <workItem from="1669272907227" duration="34561000" />
+      <workItem from="1669413391048" duration="7776000" />
+      <workItem from="1669428641709" duration="1374000" />
+      <workItem from="1669430185395" duration="461000" />
+      <workItem from="1669430651046" duration="38000" />
+      <workItem from="1669430691622" duration="1087000" />
+      <workItem from="1669432387964" duration="3303000" />
+      <workItem from="1669446993849" duration="5057000" />
+      <workItem from="1669492510397" duration="305000" />
+      <workItem from="1669492830197" duration="208000" />
+      <workItem from="1669493047124" duration="141000" />
+      <workItem from="1669493189331" duration="132000" />
+      <workItem from="1669493328801" duration="818000" />
+      <workItem from="1669494151873" duration="2000" />
+      <workItem from="1669494345195" duration="31000" />
+      <workItem from="1669494398150" duration="4000" />
+      <workItem from="1669494551091" duration="261000" />
+      <workItem from="1669495268069" duration="509000" />
+      <workItem from="1669521982155" duration="711000" />
+      <workItem from="1669524124513" duration="1100000" />
+      <workItem from="1669581766818" duration="369000" />
+      <workItem from="1669582155986" duration="22000" />
+      <workItem from="1669653621379" duration="21000" />
+      <workItem from="1669654015011" duration="17000" />
+      <workItem from="1669654713151" duration="60000" />
+      <workItem from="1669677848261" duration="1952000" />
+      <workItem from="1669824989042" duration="9461000" />
+      <workItem from="1669862191808" duration="4000" />
+      <workItem from="1669862209338" duration="15802000" />
+      <workItem from="1669944316902" duration="41000" />
+      <workItem from="1669989967352" duration="665000" />
+      <workItem from="1669990686512" duration="1206000" />
+      <workItem from="1670015143778" duration="38000" />
+      <workItem from="1670015303133" duration="142000" />
+      <workItem from="1670015451521" duration="840000" />
+      <workItem from="1670016349136" duration="7331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

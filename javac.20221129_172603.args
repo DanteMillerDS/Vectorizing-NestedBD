@@ -1,0 +1,11 @@
+-d
+/Users/dmill666/IdeaProjects/BD/build
+-classpath
+/Users/dmill666/IdeaProjects/BD/build:/Users/dmill666/IdeaProjects/beast2/lib/junit-4.8.2.jar:/Users/dmill666/IdeaProjects/beast2/build:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-launcher.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/bcel-6.5.0.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-commons-net.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-xz.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-junit4.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-jai.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-apache-resolver.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-jdepend.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-apache-regexp.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-apache-log4j.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-javamail.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-apache-bcel.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-netrexx.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-swing.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-jsch.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-junitlauncher.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ivy-2.5.0.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-junit.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-imageio.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-antlr.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-testutil.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-apache-oro.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-jmf.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-apache-xalan2.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-apache-bsf.jar:/opt/homebrew/Cellar/ant/1.10.12/libexec/lib/ant-commons-logging.jar
+-sourcepath
+/Users/dmill666/IdeaProjects/BD/src
+-g:none
+--add-modules
+jdk.incubator.vector
+/Users/dmill666/IdeaProjects/BD/src/beast/evolution/likelihood/DiploidOriginLikelihood.java
+/Users/dmill666/IdeaProjects/BD/src/beast/evolution/substitutionmodel/BD.java
